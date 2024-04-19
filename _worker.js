@@ -11,6 +11,7 @@ let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 //节点链接 + 订阅链接
 let MainData = `
 https://raw.githubusercontent.com/mraliasadi8831/Subscription-/main/profiles.txt
+https://moonriver.sbs/api/v1/client/subscribe?token=8964d152c72ccc28934a3c276a3da17e&flag=v2ray
 https://hy2sub.pages.dev
 `
 
