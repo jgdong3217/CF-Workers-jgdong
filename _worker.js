@@ -10,9 +10,18 @@ let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 
 //节点链接 + 订阅链接
 let MainData = `
-https://sub.5112233.xyz/auto
-https://moonriver.sbs/api/v1/client/subscribe?token=8964d152c72ccc28934a3c276a3da17e&flag=v2ray
+hysteria2://c1edeae5-a9c1-4135-bcc1-7f69f351d7ee@hy002.moonriver.sbs:2052/?sni=hy002.moonriver.sbs&insecure=1#US%E7%BE%8E%E5%9B%BDHY2-2%7CHY2%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E6%9B%B4%E6%96%B0V2RAYN%E8%87%B3%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC%7CX0.5
+vless://c1edeae5-a9c1-4135-bcc1-7f69f351d7ee@rucn2.moonriver.sbs:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.python.org&fp=chrome&pbk=0XhugRn6bb2-mH-_7GonkspLl2nrEAInqTCSWBEXcnE&sid=cbc51a5a&type=tcp&headerType=none#RU%E4%BF%84%E7%BD%97%E6%96%AF%E7%94%B5%E4%BF%A1CN2
 https://hy2sub.pages.dev
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@211.72.156.10:23555?encryption=none&security=tls&sni=edgood.889876.xyz&fp=ios&type=ws&host=edgood.889876.xyz&path=%2F%3Fed%3D2048#-TW
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.33.205:8443?encryption=none&security=tls&sni=edgood.889876.xyz&fp=ios&type=ws&host=edgood.889876.xyz&path=%2F%3Fed%3D2048#官方优选
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTQUMtVm0iLA0KICAiYWRkIjogIjE2Mi4xNTkuMy4xMzUiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYTEyMjVmYzctOWM2Ny00MWZkLTgzYWUtZGVhOGNhYzMwYTkwIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJub25lIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJnaWxiZXJ0LXRyYW5zZm9ybWF0aW9uLW5lcGFsLWNhbWVsLnRyeWNsb3VkZmxhcmUuY29tIiwNCiAgInBhdGgiOiAiL2FyZ294LXZtP2VkPTIwNDgiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiZ2lsYmVydC10cmFuc2Zvcm1hdGlvbi1uZXBhbC1jYW1lbC50cnljbG91ZGZsYXJlLmNvbSIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+vless://1526a9fc-494c-4641-8aa0-d44196f690ec@194.36.55.7:443?encryption=none&security=tls&type=ws&host=loud-interpreted-flower-kennedy.trycloudflare.com&path=1526a9fc#US-Psychz%20Networks-Los%20Angeles_tls
+vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@27.50.48.108:443?encryption=none&security=tls&sni=mositr.freenods.sbs&fp=random&type=ws&host=mositr.freenods.sbs&path=%2F%3Fed%3D2048#%E6%AC%A2%E4%B9%90%E6%97%B6%E5%85%89Aocs-US
+vless://b7a392e2-4ef0-4496-90bc-1c37bb234904@104.17.32.0:2053?encryption=none&security=tls&sni=15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org&fp=random&type=ws&host=15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org&path=%2Fedgetunnel-2z2.pages.dev%2F%3Fed%3D2048#US%20%E5%B7%B2%E5%90%AF%E7%94%A8
+vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@104.20.27.133:2096?encryption=none&security=tls&sni=mositr.freenods.sbs&fp=random&type=ws&host=mositr.freenods.sbs&path=%2F%3Fed%3D2048#%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%89-%E8%81%94%E9%80%9A%E4%B8%93%E4%BA%AB
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NTM3MFx1NUVBNlx1MjQ2MVx1NEUwMFx1NEYxOFx1NTMxNlx1MjQ2MSIsDQogICJhZGQiOiAidGJzbHQudGJzdGJzLmJpeiIsDQogICJwb3J0IjogIjE4ODA1IiwNCiAgImlkIjogImMzMzFjNzI3LWMwOTMtMzk2Yy04NGYzLWU4NTRmZTMzZTE0ZiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+
 `
 
 //请将机场订阅链接填入上方
