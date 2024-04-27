@@ -13,6 +13,7 @@ let MainData = `
 hysteria2://c1edeae5-a9c1-4135-bcc1-7f69f351d7ee@hy002.moonriver.sbs:2052/?sni=hy002.moonriver.sbs&insecure=1#US%E7%BE%8E%E5%9B%BDHY2-2%7CHY2%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E6%9B%B4%E6%96%B0V2RAYN%E8%87%B3%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC%7CX0.5
 vless://c1edeae5-a9c1-4135-bcc1-7f69f351d7ee@rucn2.moonriver.sbs:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.python.org&fp=chrome&pbk=0XhugRn6bb2-mH-_7GonkspLl2nrEAInqTCSWBEXcnE&sid=cbc51a5a&type=tcp&headerType=none#RU%E4%BF%84%E7%BD%97%E6%96%AF%E7%94%B5%E4%BF%A1CN2
 https://hy2sub.pages.dev
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@27.50.48.108:443?encryption=none&security=tls&sni=edgood.889876.xyz&fp=ios&type=ws&host=edgood.889876.xyz&path=%2F%3Fed%3D2048#Aocs-US
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@211.72.156.10:23555?encryption=none&security=tls&sni=edgood.889876.xyz&fp=ios&type=ws&host=edgood.889876.xyz&path=%2F%3Fed%3D2048#-TW
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.33.205:8443?encryption=none&security=tls&sni=edgood.889876.xyz&fp=ios&type=ws&host=edgood.889876.xyz&path=%2F%3Fed%3D2048#官方优选
 vless://678ac895-92c2-4f27-a9d4-f1a89c5f5365@104.20.27.224:2096?encryption=none&security=tls&sni=mositr.freenods.sbs&fp=random&type=ws&host=mositr.freenods.sbs&path=%2F%3Fed%3D2048#%E5%AE%98%E6%96%B9%E4%BC%98%E9%80%89-%E8%81%94%E9%80%9A%E4%B8%93%E4%BA%AB
