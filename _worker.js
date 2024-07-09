@@ -21,7 +21,7 @@ trojan://29f414ec-c77b-4f31-9bd1-3cd43cb22f65@visa.cn:443?security=tls&sni=relea
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@195.245.221.123:2053?encryption=none&security=tls&sni=edgood.889876.xyz&fp=ios&type=ws&host=edgood.889876.xyz&path=%2F%3Fed%3D2048#k361-clone
 vless://e3f09840-1954-46a0-96ac-e4543b4bc981@us.ak.bydk.xyz:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=qq&pbk=vX07ZX1LoeZbV7587hCpRWJ7DjiSYAS8pC9txpn0rVg&sid=c145ae8e&spx=%2F&type=tcp&headerType=none#US-AK-1
 trojan://29f414ec-c77b-4f31-9bd1-3cd43cb22f65@visa.cn:443?security=tls&sni=releases-owns-billy-ladies.trycloudflare.com&type=ws&host=releases-owns-billy-ladies.trycloudflare.com&path=%2Fargox-tr%3Fed%3D2048#USLXC-Tr
-
+https://vps.3217000.xyz/jgdong
 `
 
 //请将机场订阅链接填入上方
