@@ -11,7 +11,7 @@ let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 //节点链接 + 订阅链接
 let MainData = `
 vless://769e81cd-4159-4f9b-87de-414869c4891b@35.220.244.166:39761?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=LUaYnBZvqFVKE47gnHH3Rza3VC06dORPRae_69DhrW4&sid=04a1c3ad&type=tcp&headerType=none#gcp-hk
-vless://6a8c564b-1bd8-4866-b6b2-4538b3ef3859@35.220.244.166:27850?encryption=none&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=RlOhjqRR6zvpW2kqnQO3tTBrKM4SV-uYU-YXWCxjj04&type=grpc&authority=&serviceName=grpc&mode=gun#gcphk%20reality-grpc
+//vless://6a8c564b-1bd8-4866-b6b2-4538b3ef3859@35.220.244.166:27850?encryption=none&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=RlOhjqRR6zvpW2kqnQO3tTBrKM4SV-uYU-YXWCxjj04&type=grpc&authority=&serviceName=grpc&mode=gun#gcphk%20reality-grpc
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.231.155:2053?encryption=none&security=tls&sni=edgood.889876.xyz&fp=ios&type=ws&host=edgood.889876.xyz&path=%2F%3Fed%3D2048#Aocs-US
 vless://99c8a597-e829-455a-adb1-78ad8abea969@tw1.3217000.xyz:30652?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=8SOgTDtp-91i9mejf2-8BUaXnpy0OI-EOz1UoM9jEQ4&sid=5371d61a&type=tcp&headerType=none#gcptw
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkhvbmdLb25nIiwNCiAgImFkZCI6ICIxMzkuMTk4LjEyMS4xNzMiLA0KICAicG9ydCI6ICIyMzY1NiIsDQogICJpZCI6ICJiZTA5ZDFkYy03OTAxLTQzNGYtOTczNi03ZWY4N2VkMjJmMzMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
