@@ -22,7 +22,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@195.245.221.123:2053?encryption=non
 vless://39bf8c8a-2021-4df1-b680-a995ab90d86c@34.96.246.97:20686?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=ZsRaSknlspatCAn4Pe43CGucjivtU8u1kCcY74ozvhg&type=tcp&headerType=none#gcphk%20reality-vision
 vless://39bf8c8a-2021-4df1-b680-a995ab90d86c@34.96.246.97:20686?encryption=none&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=ZsRaSknlspatCAn4Pe43CGucjivtU8u1kCcY74ozvhg&type=grpc&authority=&serviceName=grpc&mode=gun#gcphk%20reality-grpc
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImpwMnx1aFFULmxvdmVAeHJheS5jb20tY2xvbmUtY2xvbmUiLA0KICAiYWRkIjogInZpc2EuY24iLA0KICAicG9ydCI6ICIyMDUyIiwNCiAgImlkIjogImQxYmVjODE1LWE0YmMtNDg1Mi1hMTRjLTc4MGEwMjZmOGNmOSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAianAyLjMyMTcwMDAueHl6IiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-
 https://vps.3217000.xyz/jgdong
 `
 
