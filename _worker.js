@@ -37,6 +37,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkhvbmdLb25nIiwNCiAgImFkZCI6ICIxMzkuMTk4
 ss://YWVzLTEyOC1nY206eGZwZ05qY1RvMnN5UWg3ZFR4NHNpNkR3TXdiZUZLS0poaE9abThzMVJJWGE=@183.94.30.165:26922#Alice-HK
 vless://29d7e10b-82a0-4425-bf5f-799deab5f204@ru.a-dns.eu.org:10000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=random&pbk=lw9C9lZKKC8pfwR_jOxYDpKTD54s0Ovffz3lVH3GuHU&sid=249e&spx=%2F&type=tcp&headerType=none#%E8%8E%AB%E6%96%AF%E7%A7%91300Mbps%40%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F
 vless://29d7e10b-82a0-4425-bf5f-799deab5f204@45.147.201.45:10000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=random&pbk=lw9C9lZKKC8pfwR_jOxYDpKTD54s0Ovffz3lVH3GuHU&sid=249e&spx=%2F&type=tcp&headerType=none#y2zow7qn
+vless://93ba16ba-00b3-45b6-bdea-906dd564ba5f@yx.3217000.xyz:443?encryption=none&security=tls&sni=nomination-athens-soundtrack-arising.trycloudflare.com&type=ws&host=nomination-athens-soundtrack-arising.trycloudflare.com&path=%2Fargox-vl%3Fed%3D2048#yxvm-Vl
 
 `
 
