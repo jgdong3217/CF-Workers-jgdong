@@ -30,7 +30,6 @@ vless://a4ceb71e-3eef-474c-f467-d09b69327e40@urhsxfsf.tkpretty.com:59879?encrypt
 vless://29d7e10b-82a0-4425-bf5f-799deab5f204@45.147.201.45:10000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=random&pbk=lw9C9lZKKC8pfwR_jOxYDpKTD54s0Ovffz3lVH3GuHU&sid=249e&spx=%2F&type=tcp&headerType=none#y2zow7qn
 vless://9faa596b-7762-424d-bdc1-dbdb1063a940@fyfdrsi.tkpretty.com:42492?encryption=none&security=tls&type=ws&path=%2F34y5gwersfdv
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@195.245.221.123:2053?encryption=none&security=tls&sni=edgood.889876.xyz&fp=ios&type=ws&host=edgood.889876.xyz&path=%2F%3Fed%3D2048#k361-clone
-vless://93ba16ba-00b3-45b6-bdea-906dd564ba5f@[2a05:dfc1:8b62:4778:be24:11ff:fe3c:a98c]:55599?encryption=none&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=Wr2882ax-DaLOELZhIHNAwAvWnZjqUo37rYkINJsnVg&type=grpc&authority=&serviceName=grpc&mode=gun#yxvm%20reality-grpc
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.231.155:2053?encryption=none&security=tls&sni=edgood.889876.xyz&fp=ios&type=ws&host=edgood.889876.xyz&path=%2F%3Fed%3D2048#Aocs-US
 
 `
