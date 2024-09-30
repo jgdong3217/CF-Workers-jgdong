@@ -17,15 +17,15 @@ vless://9ef72714-121e-47c4-a94b-487b65a2a005@ky01.fjsedf6523.xyz:443?encryption=
 vless://5bf6ca4d-786c-4dc2-8f5f-0ea46a6ffbf4@ky12.nefe512.xyz:443?encryption=none&security=tls&type=ws&path=%2Fky12.nefe512#ky12
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIiIsDQogICJhZGQiOiAiMjMuMTY2LjE2OC45MyIsDQogICJwb3J0IjogIjIxMDYyIiwNCiAgImlkIjogIjI5NzUxOTRkLTNkY2ItNGIxOC1iYTZkLTViYTVjOWRkM2M4OSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 vless://6a768550-3d75-4f87-c61f-843b6415169d@ky41.rgrgjk54643.xyz:443?encryption=none&security=tls&type=ws&path=%2Fky41.rgrgjk54643#ky41
-vless://3731994f-a362-428f-8869-a7d052264fbe@ky08.sgrg5434.xyz:443?encryption=none&security=tls&type=ws&path=%2Fky08.sgrg5434#ky08
-vless://a904c7fd-a1cd-4f4a-99e4-166265563951@ky06.ysld6312.xyz:443?encryption=none&security=tls&type=ws&path=%2Fky06.ysld6312#ky06
 vless://29d7e10b-82a0-4425-bf5f-799deab5f204@45.147.201.45:10000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=random&pbk=lw9C9lZKKC8pfwR_jOxYDpKTD54s0Ovffz3lVH3GuHU&sid=249e&spx=%2F&type=tcp&headerType=none#y2zow7qn
 vless://29d7e10b-82a0-4425-bf5f-799deab5f204@ru.a-dns.eu.org:10000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=random&pbk=lw9C9lZKKC8pfwR_jOxYDpKTD54s0Ovffz3lVH3GuHU&sid=249e&spx=%2F&type=tcp&headerType=none#%E8%8E%AB%E6%96%AF%E7%A7%91300Mbps%40%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F
 vless://a4ceb71e-3eef-474c-f467-d09b69327e40@urhsxfsf.tkpretty.com:59879?encryption=none&security=tls&type=ws&path=%2Fi7e5urthd
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@195.245.221.123:2053?encryption=none&security=tls&sni=edgood.889876.xyz&fp=ios&type=ws&host=edgood.889876.xyz&path=%2F%3Fed%3D2048#k361-clone
 vless://d958eee1-fa7c-4780-97b4-673079733a1c@kjhdfiuydff.tkpretty.com:45575?encryption=none&security=tls&type=ws&path=%2F9875e6rthyg
 vless://9faa596b-7762-424d-bdc1-dbdb1063a940@fyfdrsi.tkpretty.com:42492?encryption=none&security=tls&type=ws&path=%2F34y5gwersfdv
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.64.231.155:2053?encryption=none&security=tls&sni=edgood.889876.xyz&fp=ios&type=ws&host=edgood.889876.xyz&path=%2F%3Fed%3D2048#Aocs-US
+vless://63479e1a-17c3-4773-bb2c-dc7d3318cbc5@47.243.104.51:18888?encryption=none&security=reality&sni=icloud.cdn-apple.com&fp=chrome&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&type=tcp&headerType=none#%E9%98%BF%E9%87%8C%E4%BA%91%E9%A6%99%E6%B8%AF-claw.cloud
+vless://fc943f32-99ec-44d2-accf-b28a18ac3e2d@locvps.3217000.xyz:10447?encryption=none&security=tls&sni=locvps.3217000.xyz&fp=chrome&type=ws&path=%2F#locvpsws%7Co8eo.love
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1N0Y4RVx1NTZGRC1NYWRjaXR5IiwNCiAgImFkZCI6ICIxNTQuMTcuMjI4LjEyMyIsDQogICJwb3J0IjogIjE5MDYzIiwNCiAgImlkIjogImE1NGNjODk3LWQzZmEtNDkzYi05OWVmLTQwODg3ZmRiZmYyNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidXMubWFkY2l0eS5sb2wiLA0KICAicGF0aCI6ICIvP2VkPTI1NjAiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAidXMubWFkY2l0eS5sb2wiLA0KICAiYWxwbiI6ICJodHRwLzEuMSIsDQogICJmcCI6ICIiDQp9
 
 `
 
