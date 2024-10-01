@@ -31,6 +31,7 @@ vless://64bfe164-78bf-4393-e423-b2d28ba31a8f@locvps.3217000.xyz:38932?encryption
 vless://fc943f32-99ec-44d2-accf-b28a18ac3e2d@locvps.3217000.xyz:10447?encryption=none&security=tls&sni=locvps.3217000.xyz&fp=chrome&type=ws&path=%2F#locvpsws%7Co8eo.love
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1N0Y4RVx1NTZGRC1NYWRjaXR5IiwNCiAgImFkZCI6ICIxNTQuMTcuMjI4LjEyMyIsDQogICJwb3J0IjogIjE5MDYzIiwNCiAgImlkIjogImE1NGNjODk3LWQzZmEtNDkzYi05OWVmLTQwODg3ZmRiZmYyNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidXMubWFkY2l0eS5sb2wiLA0KICAicGF0aCI6ICIvP2VkPTI1NjAiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAidXMubWFkY2l0eS5sb2wiLA0KICAiYWxwbiI6ICJodHRwLzEuMSIsDQogICJmcCI6ICIiDQp9
 vless://63479e1a-17c3-4773-bb2c-dc7d3318cbc5@47.243.104.51:18888?encryption=none&security=reality&sni=icloud.cdn-apple.com&fp=chrome&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&type=tcp&headerType=none#%E9%98%BF%E9%87%8C%E4%BA%91%E9%A6%99%E6%B8%AF-claw.cloud
+vless://54497b6d-f570-42df-9365-e100a539e54e@161.35.97.77:30303?encryption=none&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&type=tcp&headerType=none#danai%7CAyi5.love%40xray.com
 
 `
 
