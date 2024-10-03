@@ -11,28 +11,29 @@ let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 //节点链接 + 订阅链接
 let MainData = `
 //https://vps.3217000.xyz/jgdong1
-vless://d239f27d-6f3f-4633-fcc5-d4105b703df0@ky40.eghrr656.click:443?encryption=none&security=tls&type=ws&path=%2Fky40.eghrr656#ky40
-vless://1e69d68c-b163-414c-fb85-f7d05dc953f1@ky11.mwedw51.xyz:443?encryption=none&security=tls&type=ws&path=%2Fky11.mwedw51#ky11
-vless://9ef72714-121e-47c4-a94b-487b65a2a005@ky01.fjsedf6523.xyz:443?encryption=none&security=tls&type=ws&path=%2Fky01.fjsedf6523#ky01
-vless://5bf6ca4d-786c-4dc2-8f5f-0ea46a6ffbf4@ky12.nefe512.xyz:443?encryption=none&security=tls&type=ws&path=%2Fky12.nefe512#ky12
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIiIsDQogICJhZGQiOiAiMjMuMTY2LjE2OC45MyIsDQogICJwb3J0IjogIjIxMDYyIiwNCiAgImlkIjogIjI5NzUxOTRkLTNkY2ItNGIxOC1iYTZkLTViYTVjOWRkM2M4OSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-vless://6a768550-3d75-4f87-c61f-843b6415169d@ky41.rgrgjk54643.xyz:443?encryption=none&security=tls&type=ws&path=%2Fky41.rgrgjk54643#ky41
-vless://29d7e10b-82a0-4425-bf5f-799deab5f204@45.147.201.45:10000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=random&pbk=lw9C9lZKKC8pfwR_jOxYDpKTD54s0Ovffz3lVH3GuHU&sid=249e&spx=%2F&type=tcp&headerType=none#y2zow7qn
-vless://29d7e10b-82a0-4425-bf5f-799deab5f204@ru.a-dns.eu.org:10000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=random&pbk=lw9C9lZKKC8pfwR_jOxYDpKTD54s0Ovffz3lVH3GuHU&sid=249e&spx=%2F&type=tcp&headerType=none#%E8%8E%AB%E6%96%AF%E7%A7%91300Mbps%40%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F
-vless://a4ceb71e-3eef-474c-f467-d09b69327e40@urhsxfsf.tkpretty.com:59879?encryption=none&security=tls&type=ws&path=%2Fi7e5urthd
-vless://d958eee1-fa7c-4780-97b4-673079733a1c@kjhdfiuydff.tkpretty.com:45575?encryption=none&security=tls&type=ws&path=%2F9875e6rthyg
-vless://9faa596b-7762-424d-bdc1-dbdb1063a940@fyfdrsi.tkpretty.com:42492?encryption=none&security=tls&type=ws&path=%2F34y5gwersfdv
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImRtaXQiLA0KICAiYWRkIjogIjIzLjE2Ni4xNjguOTMiLA0KICAicG9ydCI6ICIyMTA2MiIsDQogICJpZCI6ICIyOTc1MTk0ZC0zZGNiLTRiMTgtYmE2ZC01YmE1YzlkZDNjODkiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+vless://a4ceb71e-3eef-474c-f467-d09b69327e40@urhsxfsf.tkpretty.com:59879?encryption=none&security=tls&type=ws&path=%2Fi7e5urthd#baipi
+vless://d958eee1-fa7c-4780-97b4-673079733a1c@kjhdfiuydff.tkpretty.com:45575?encryption=none&security=tls&type=ws&path=%2F9875e6rthyg#baipi
+vless://9faa596b-7762-424d-bdc1-dbdb1063a940@fyfdrsi.tkpretty.com:42492?encryption=none&security=tls&type=ws&path=%2F34y5gwersfdv#baipi
+ss://YWVzLTEyOC1nY206dTJaV1NzNVhMUnF2UjRwakpNK3lrdDdCRDFFU09Vc0ZNSWNUYnQ5b1lZbz0=@diylink.980726.xyz:34960#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20DIYLink
 vless://63479e1a-17c3-4773-bb2c-dc7d3318cbc5@47.243.104.51:18888?encryption=none&security=reality&sni=icloud.cdn-apple.com&fp=chrome&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&type=tcp&headerType=none#%E9%98%BF%E9%87%8C%E4%BA%91%E9%A6%99%E6%B8%AF-claw.cloud
-vless://fc943f32-99ec-44d2-accf-b28a18ac3e2d@locvps.3217000.xyz:10447?encryption=none&security=tls&sni=locvps.3217000.xyz&fp=chrome&type=ws&path=%2F#locvpsws%7Co8eo.love
+vless://63af7042-ab32-4d77-9fdd-ff5a667455c2@192.9.251.50:12110?encryption=none&security=reality&sni=icloud.cdn-apple.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#%E9%BE%9F%E5%A3%B3%E5%9C%A3%E4%BD%95%E5%A1%9E%7Ccy2e.love%40xray.com
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1N0Y4RVx1NTZGRC1NYWRjaXR5IiwNCiAgImFkZCI6ICIxNTQuMTcuMjI4LjEyMyIsDQogICJwb3J0IjogIjE5MDYzIiwNCiAgImlkIjogImE1NGNjODk3LWQzZmEtNDkzYi05OWVmLTQwODg3ZmRiZmYyNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidXMubWFkY2l0eS5sb2wiLA0KICAicGF0aCI6ICIvP2VkPTI1NjAiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAidXMubWFkY2l0eS5sb2wiLA0KICAiYWxwbiI6ICJodHRwLzEuMSIsDQogICJmcCI6ICIiDQp9
-vless://a85fe1fa-686b-4b93-a1c4-c12fc17efe87@46.29.166.160:17267?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.lovelive-anime.jp&fp=safari&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&allowInsecure=1&type=tcp&headerType=none#%E7%94%B5%E4%BF%A1%E8%81%94%E9%80%9A%E4%BC%98%E5%8C%96
+vless://29d7e10b-82a0-4425-bf5f-799deab5f204@ru.a-dns.eu.org:10000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=random&pbk=lw9C9lZKKC8pfwR_jOxYDpKTD54s0Ovffz3lVH3GuHU&sid=249e&spx=%2F&type=tcp&headerType=none#%E8%8E%AB%E6%96%AF%E7%A7%91300Mbps%40%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NkIyN1x1NUZCN1x1OUUyMSIsDQogICJhZGQiOiAiMTcyLjY0LjEwNi4xODgiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZTk1ZTIyMTMtNjE1OS00YmJlLTlmZTUtMjhlNzA1YmMyM2VjIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJxd2VxZXF3ZXF3ZXF3ZS5qYWdhb255YWJlcml0YS5ldS5vcmciLA0KICAicGF0aCI6ICIvaG9tZSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+vless://461b9b12-4f64-4bbd-8253-18ec1f443526@[2605:6400:5322:800e:0:1:e129:20f]:46528?encryption=none&security=reality&sni=blog.api.www.cloudflare.com&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&type=tcp&headerType=none#acuslxc%7CL0vw.love%40xray.com
+vless://54497b6d-f570-42df-9365-e100a539e54e@161.35.97.77:30303?encryption=none&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&type=tcp&headerType=none#danai%7CAyi5.love%40xray.com
+vless://54497b6d-f570-42df-9365-e100a539e54e@161.35.97.77:30303?encryption=none&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&type=tcp&headerType=none#danai%7CAyi5.love%40xray.com
+vless://54497b6d-f570-42df-9365-e100a539e54e@103.244.89.58:12118?encryption=none&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&type=tcp&headerType=none#danai%7CAyi5.love%40xray.com-clone
+vless://9ef72714-121e-47c4-a94b-487b65a2a005@ky01.fjsedf6523.xyz:443?encryption=none&security=tls&type=ws&path=%2Fky01.fjsedf6523#ky01
+vless://1e69d68c-b163-414c-fb85-f7d05dc953f1@ky11.mwedw51.xyz:443?encryption=none&security=tls&type=ws&path=%2Fky11.mwedw51#ky11
+vless://5bf6ca4d-786c-4dc2-8f5f-0ea46a6ffbf4@ky12.nefe512.xyz:443?encryption=none&security=tls&type=ws&path=%2Fky12.nefe512#ky12
+vless://d239f27d-6f3f-4633-fcc5-d4105b703df0@ky40.eghrr656.click:443?encryption=none&security=tls&type=ws&path=%2Fky40.eghrr656#ky40
+vless://6a768550-3d75-4f87-c61f-843b6415169d@ky41.rgrgjk54643.xyz:443?encryption=none&security=tls&type=ws&path=%2Fky41.rgrgjk54643#ky41
 vless://06df5b3a-40e5-4314-a10d-f2e6a870fa7f@locvps.3217000.xyz:24176?encryption=none&security=tls&sni=locvps.3217000.xyz&fp=chrome&type=tcp&headerType=none#locvps%7C8vcJ
 vless://64bfe164-78bf-4393-e423-b2d28ba31a8f@locvps.3217000.xyz:38932?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&type=tcp&headerType=none#locvpstcp%7CbpL2
 vless://fc943f32-99ec-44d2-accf-b28a18ac3e2d@locvps.3217000.xyz:10447?encryption=none&security=tls&sni=locvps.3217000.xyz&fp=chrome&type=ws&path=%2F#locvpsws%7Co8eo.love
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1N0Y4RVx1NTZGRC1NYWRjaXR5IiwNCiAgImFkZCI6ICIxNTQuMTcuMjI4LjEyMyIsDQogICJwb3J0IjogIjE5MDYzIiwNCiAgImlkIjogImE1NGNjODk3LWQzZmEtNDkzYi05OWVmLTQwODg3ZmRiZmYyNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidXMubWFkY2l0eS5sb2wiLA0KICAicGF0aCI6ICIvP2VkPTI1NjAiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAidXMubWFkY2l0eS5sb2wiLA0KICAiYWxwbiI6ICJodHRwLzEuMSIsDQogICJmcCI6ICIiDQp9
-vless://63479e1a-17c3-4773-bb2c-dc7d3318cbc5@47.243.104.51:18888?encryption=none&security=reality&sni=icloud.cdn-apple.com&fp=chrome&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&type=tcp&headerType=none#%E9%98%BF%E9%87%8C%E4%BA%91%E9%A6%99%E6%B8%AF-claw.cloud
-vless://54497b6d-f570-42df-9365-e100a539e54e@161.35.97.77:30303?encryption=none&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&type=tcp&headerType=none#danai%7CAyi5.love%40xray.com
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NkIyN1x1NUZCN1x1OUUyMSIsDQogICJhZGQiOiAiMTcyLjY0LjEwNi4xODgiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZTk1ZTIyMTMtNjE1OS00YmJlLTlmZTUtMjhlNzA1YmMyM2VjIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJxd2VxZXF3ZXF3ZXF3ZS5qYWdhb255YWJlcml0YS5ldS5vcmciLA0KICAicGF0aCI6ICIvaG9tZSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
+vless://29d7e10b-82a0-4425-bf5f-799deab5f204@45.147.201.45:10000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=random&pbk=lw9C9lZKKC8pfwR_jOxYDpKTD54s0Ovffz3lVH3GuHU&sid=249e&spx=%2F&type=tcp&headerType=none#y2zow7qn
 
 `
 
