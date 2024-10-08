@@ -35,7 +35,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@154.17.20.28:22477?encryption=none&
 vless://29d7e10b-82a0-4425-bf5f-799deab5f204@ru.a-dns.eu.org:10000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=random&pbk=lw9C9lZKKC8pfwR_jOxYDpKTD54s0Ovffz3lVH3GuHU&sid=249e&spx=%2F&type=tcp&headerType=none#%E8%8E%AB%E6%96%AF%E7%A7%91300Mbps%40%E6%97%A0%E9%99%90%E6%B5%81%E9%87%8F
 vless://5bf6ca4d-786c-4dc2-8f5f-0ea46a6ffbf4@ky12.nefe512.xyz:443?encryption=none&security=tls&type=ws&path=%2Fky12.nefe512#ky12
 vless://6a768550-3d75-4f87-c61f-843b6415169d@ky41.rgrgjk54643.xyz:443?encryption=none&security=tls&type=ws&path=%2Fky41.rgrgjk54643#ky41
-vless://d958eee1-fa7c-4780-97b4-673079733a1c@kjhdfiuydff.tkpretty.com:45575?encryption=none&security=tls&type=ws&path=%2F9875e6rthyg#baipi
 vless://29d7e10b-82a0-4425-bf5f-799deab5f204@45.147.201.45:10000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=random&pbk=lw9C9lZKKC8pfwR_jOxYDpKTD54s0Ovffz3lVH3GuHU&sid=249e&spx=%2F&type=tcp&headerType=none#y2zow7qn
 vless://d239f27d-6f3f-4633-fcc5-d4105b703df0@ky40.eghrr656.click:443?encryption=none&security=tls&type=ws&path=%2Fky40.eghrr656#ky40
 vless://54497b6d-f570-42df-9365-e100a539e54e@161.35.97.77:30303?encryption=none&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&type=tcp&headerType=none#danai%7CAyi5.love%40xray.com
