@@ -38,6 +38,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NkIyN1x1NUZCN1x1OUUyMS1jbG9uZSIsDQog
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1NkIyN1x1NUZCN1x1OUUyMSIsDQogICJhZGQiOiAiMTcyLjY0LjEwNi4xODgiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZTk1ZTIyMTMtNjE1OS00YmJlLTlmZTUtMjhlNzA1YmMyM2VjIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJxd2VxZXF3ZXF3ZXF3ZS5qYWdhb255YWJlcml0YS5ldS5vcmciLA0KICAicGF0aCI6ICIvaG9tZSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@[2606:4700:3001:e1ed:7872:8a58:a6a0:cf1d]:2053?encryption=none&security=tls&sni=edgood.889876.xyz&fp=ios&type=ws&host=edgood.889876.xyz&path=%2F%3Fed%3D2048#k361
 vless://461b9b12-4f64-4bbd-8253-18ec1f443526@[2605:6400:5322:800e:0:1:e129:20f]:46528?encryption=none&security=reality&sni=blog.api.www.cloudflare.com&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&type=tcp&headerType=none#acuslxc%7CL0vw.love%40xray.com
+vless://c7be3852-ad32-4eec-bee3-e5ac195153f6@119.237.242.57:16207?encryption=none&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4&type=tcp&headerType=none#alice
 
 `
 
