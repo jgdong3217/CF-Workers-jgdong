@@ -11,8 +11,7 @@ let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 //节点链接 + 订阅链接
 let MainData = `
 //https://vps.3217000.xyz/jgdong1
-vless://7a3cf612-4c0e-43ea-f135-17c9bd8c3a7c@wawo.3217000.xyz:23961?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&type=tcp&headerType=none#wawo-vl
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIndhd28tdm0iLA0KICAiYWRkIjogIndhd28uMzIxNzAwMC54eXoiLA0KICAicG9ydCI6ICI0MDE5NSIsDQogICJpZCI6ICI0MDA1NTliYy1jNGUzLTQ5M2MtODNjZC1jY2Y5ZGY3YmE0MWIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
+vless://3c3889bf-765f-4940-c81b-c68c54b8dc43@wawo.3217000.xyz:24283?encryption=none&security=reality&sni=icloud.cdn-apple.com&fp=chrome&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&type=tcp&headerType=none#wawo-vl
 hysteria2://5ce990c6bf4bd796@103.122.244.15:40527/?sni=www.bing.com&alpn=h3&insecure=1#wawo-hy2
 vless://527f9cf4-887a-4740-b7a1-520ca3862b29@156.238.251.95:8880?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=E0mC0V0KqgtNBYV8BjkhEcZAHPNDUyHEHKu-uaPJIx4&sid=b7980024cc3e99da&type=tcp&headerType=none#%E7%8B%90%E8%92%82%E4%BA%91US-Multacom
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkhvbmdLb25nIiwNCiAgImFkZCI6ICIxMzkuMTk4LjEyMS4xNzMiLA0KICAicG9ydCI6ICIyMzY1NiIsDQogICJpZCI6ICJiZTA5ZDFkYy03OTAxLTQzNGYtOTczNi03ZWY4N2VkMjJmMzMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
