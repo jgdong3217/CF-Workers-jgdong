@@ -11,6 +11,7 @@ let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 //节点链接 + 订阅链接
 let MainData = `
 //https://vps.3217000.xyz/jgdong1
+vless://2fefeb83-7ca2-418d-e1d2-b7710d341894@103.122.244.15:30384?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&type=tcp&headerType=none#alice-v6-wawo
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIndhd28tSEsiLA0KICAiYWRkIjogInl4LjMyMTcwMDAueHl6IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjYyYzA3YWI5LTIyNjctNDRmNy1iY2RhLTQ4OTc4MDk0Nzc5MCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAic3Vic2lkaWFyeS1jYXN0bGUtdXAtY29hbGl0aW9uLnRyeWNsb3VkZmxhcmUuY29tIiwNCiAgInBhdGgiOiAiNjJjMDdhYjkiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 vless://1af47d0f-1562-4904-c90a-b8a51c4a67e5@wawo.3217000.xyz:30024?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&type=tcp&headerType=none#wawo-vl
 vless://1af47d0f-1562-4904-c90a-b8a51c4a67e5@103.122.244.15:30024?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&type=tcp&headerType=none#wawo-vl
