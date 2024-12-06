@@ -36,7 +36,6 @@ vless://29d7e10b-82a0-4425-bf5f-799deab5f204@45.147.201.45:10000?encryption=none
 vless://5bf6ca4d-786c-4dc2-8f5f-0ea46a6ffbf4@ky12.nefe512.xyz:443?encryption=none&security=tls&type=ws&path=%2Fky12.nefe512#ky12
 vless://1e69d68c-b163-414c-fb85-f7d05dc953f1@ky11.mwedw51.xyz:443?encryption=none&security=tls&type=ws&path=%2Fky11.mwedw51#ky11
 vless://d239f27d-6f3f-4633-fcc5-d4105b703df0@ky40.eghrr656.click:443?encryption=none&security=tls&type=ws&path=%2Fky40.eghrr656#ky40
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNDRhNDIzMC00ZGI1LTRlOWYtYmFiMi0wYmY0MGNhM2NhYzI%3D@node-hk.dlg365.com:49910#%F0%9F%87%AD%F0%9F%87%B0%20HK%2010
 vless://d6b3772b-ea57-43fa-b5bf-172db0db8c63@156.226.170.188:52395?encryption=none&security=reality&sni=www.lovelive-anime.jp&fp=chrome&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&type=tcp&headerType=none#acck%7C1gR2.love%40xray.com
 vless://d6b3772b-ea57-43fa-b5bf-172db0db8c63@103.244.89.58:33776?encryption=none&security=reality&sni=www.lovelive-anime.jp&fp=chrome&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&type=tcp&headerType=none#acck%7CVL-locvps
 vless://d6b3772b-ea57-43fa-b5bf-172db0db8c63@208.87.96.15:10484?encryption=none&security=reality&sni=www.lovelive-anime.jp&fp=chrome&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&type=tcp&headerType=none#acck%7CVL-wawo
