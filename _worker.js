@@ -11,7 +11,8 @@ let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 //节点链接 + 订阅链接
 let MainData = `
 //https://vps.3217000.xyz/jgdong1
-vless://2fefeb83-7ca2-418d-e1d2-b7710d341894@208.87.96.15:30384?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&type=tcp&headerType=none#alice-v6-wawo
+vless://92224dc5-e2ea-4273-b16e-236ed14dffb2@alice.3217.lol:38227?encryption=none&security=reality&sni=yahoo.com&fp=random&pbk=imD8hym2oeiCHR3nOl6mBrLKfmIliR4jXMHC8nBPThA&sid=7507797c157c7147&spx=%2F&type=tcp&headerType=none#alice-vl-vyzm4d8j
+vless://92224dc5-e2ea-4273-b16e-236ed14dffb2@208.87.96.15:30384?encryption=none&security=reality&sni=yahoo.com&fp=random&pbk=imD8hym2oeiCHR3nOl6mBrLKfmIliR4jXMHC8nBPThA&sid=7507797c157c7147&spx=%2F&type=tcp&headerType=none#alice-v6-wawo
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIndhd28tSEt8dm0iLA0KICAiYWRkIjogIndhd28uMzIxNzAwMC54eXoiLA0KICAicG9ydCI6ICI1NDkzMSIsDQogICJpZCI6ICI3Y2YxZDlhMC05YjVmLTQyNDEtY2RjZS0xZmVhMGU4MDEwOTciLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogImdycGMiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 vless://1af47d0f-1562-4904-c90a-b8a51c4a67e5@wawo.3217000.xyz:30024?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&type=tcp&headerType=none#wawo-HK
 vless://1af47d0f-1562-4904-c90a-b8a51c4a67e5@103.244.89.58:12118?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&type=tcp&headerType=none#wawo-HK-locvps
