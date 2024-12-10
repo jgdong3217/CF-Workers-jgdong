@@ -21,7 +21,7 @@ vless://155eed4a-ac2c-46b4-cac8-f286dbe1a03f@208.87.96.15:15161?encryption=none&
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIndhd28tdXN8Q0ROfDUwMEdCIiwNCiAgImFkZCI6ICJ5eC4zMjE3MDAwLnh5eiIsDQogICJwb3J0IjogIjIwNTMiLA0KICAiaWQiOiAiZWIyOTNjN2YtYzA1NS00YzdkLWFmODgtNGY3MzQ2NTNlM2RmIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ3YXdvdXMuMzIxNy5zcGFjZSIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAid2F3b3VzLjMyMTcuc3BhY2UiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 vless://33150427-0d29-4cf5-abe2-23595c99afe4@rn.3217.space:21758?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=4comh-7Jm_wZXJQ5QiLSCbVGQIbMUzHUIBdb0aFtLzM&type=tcp&headerType=none#RN-us%7Cvl%7CbEIJ.love%40xray.com
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlJOLXVzfHZtfHEwWTgubG92ZUB4cmF5LmNvbSIsDQogICJhZGQiOiAicm4uMzIxNy5zcGFjZSIsDQogICJwb3J0IjogIjUwNjk4IiwNCiAgImlkIjogIjM2NzQyYmQzLTM5MTYtNGI3ZC1jMjIxLWVhMzg3NWUzZDFkNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-ysteria2://8e43774bd205cdbe@156.226.170.188:64410?sni=www.bing.com&alpn=h3&insecure=1#acck-longitude
+hysteria2://7d104750c3733c0e@156.226.170.188:64410?sni=www.bing.com&alpn=h3&insecure=1#ACCK-HK-Akile
 vless://d6b3772b-ea57-43fa-b5bf-172db0db8c63@156.226.170.188:52395?encryption=none&security=reality&sni=www.lovelive-anime.jp&fp=chrome&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&type=tcp&headerType=none#acck%7C1gR2.love%40xray.com
 vless://d6b3772b-ea57-43fa-b5bf-172db0db8c63@103.244.89.58:33776?encryption=none&security=reality&sni=www.lovelive-anime.jp&fp=chrome&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&type=tcp&headerType=none#acck%7CVL-locvps
 vless://d6b3772b-ea57-43fa-b5bf-172db0db8c63@208.87.96.15:10484?encryption=none&security=reality&sni=www.lovelive-anime.jp&fp=chrome&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&type=tcp&headerType=none#acck%7CVL-wawo
@@ -38,7 +38,7 @@ vless://29d7e10b-82a0-4425-bf5f-799deab5f204@45.147.201.45:10000?encryption=none
 vless://5bf6ca4d-786c-4dc2-8f5f-0ea46a6ffbf4@ky12.nefe512.xyz:443?encryption=none&security=tls&type=ws&path=%2Fky12.nefe512#ky12
 vless://1e69d68c-b163-414c-fb85-f7d05dc953f1@ky11.mwedw51.xyz:443?encryption=none&security=tls&type=ws&path=%2Fky11.mwedw51#ky11
 vless://d239f27d-6f3f-4633-fcc5-d4105b703df0@ky40.eghrr656.click:443?encryption=none&security=tls&type=ws&path=%2Fky40.eghrr656#ky40
-ysteria2://8e43774bd205cdbe@156.226.170.188:64410?sni=www.bing.com&alpn=h3&insecure=1#acck-longitude
+
 `
 
 //请将机场订阅链接填入上方
