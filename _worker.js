@@ -40,6 +40,8 @@ vless://29d7e10b-82a0-4425-bf5f-799deab5f204@45.147.201.45:10000?encryption=none
 vless://5bf6ca4d-786c-4dc2-8f5f-0ea46a6ffbf4@ky12.nefe512.xyz:443?encryption=none&security=tls&type=ws&path=%2Fky12.nefe512#ky12
 vless://1e69d68c-b163-414c-fb85-f7d05dc953f1@ky11.mwedw51.xyz:443?encryption=none&security=tls&type=ws&path=%2Fky11.mwedw51#ky11
 vless://d239f27d-6f3f-4633-fcc5-d4105b703df0@ky40.eghrr656.click:443?encryption=none&security=tls&type=ws&path=%2Fky40.eghrr656#ky40
+vless://20dfceaf-b1d8-4ad0-e0f2-b478d8ca501a@83.147.0.198:18434?encryption=none&security=reality&sni=icloud.cdn-apple.com&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&type=tcp&headerType=none#HK-Akile
+hysteria2://2f4a77afac962d01@83.147.0.198:26008?sni=www.bing.com&alpn=h3&insecure=1#HK-Akile
 
 `
 
