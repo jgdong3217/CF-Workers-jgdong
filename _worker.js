@@ -39,7 +39,6 @@ vless://1e69d68c-b163-414c-fb85-f7d05dc953f1@ky11.mwedw51.xyz:443?encryption=non
 vless://d239f27d-6f3f-4633-fcc5-d4105b703df0@ky40.eghrr656.click:443?encryption=none&security=tls&type=ws&path=%2Fky40.eghrr656#ky40
 vless://20dfceaf-b1d8-4ad0-e0f2-b478d8ca501a@83.147.0.198:18434?encryption=none&security=reality&sni=icloud.cdn-apple.com&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&type=tcp&headerType=none#HK-Akile
 hysteria2://2f4a77afac962d01@83.147.0.198:26008?sni=www.bing.com&alpn=h3&insecure=1#HK-Akile
-vless://89741bb1-7cc3-4221-9b59-20e2f78f6a7b@172.64.97.236:443?encryption=none&security=tls&sni=edgetunnel.3217000.xyz&fp=randomized&type=ws&host=edgetunnel.3217000.xyz&path=%2F%3Fed%3D2560#edgetunnel-clone
 
 `
 
