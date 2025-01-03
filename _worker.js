@@ -10,6 +10,7 @@ let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 
 //节点链接 + 订阅链接
 let MainData = `
+ss://YWVzLTI1Ni1nY206TmtSSlZHbE5SM0pCUVc1VWR6aDFRWFF4UWtWWE0xaFFXbTVCZDFSTFMydz0%3D@[2600:1900:41a0:616::]:36866#每人限用流量1T/月
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIndhd28tdXN8dGxzIiwNCiAgImFkZCI6ICJ3YXdvdXMuMzIxNy5zcGFjZSIsDQogICJwb3J0IjogIjM2NTY4IiwNCiAgImlkIjogImViMjkzYzdmLWMwNTUtNGM3ZC1hZjg4LTRmNzM0NjUzZTNkZiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 vless://155eed4a-ac2c-46b4-cac8-f286dbe1a03f@wawous.3217.space:36567?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&type=tcp&headerType=none#wawo-us%7Ctcp
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIndhd28tSEt2bSIsDQogICJhZGQiOiAid2F3by4zMjE3MDAwLnh5eiIsDQogICJwb3J0IjogIjU0OTMyIiwNCiAgImlkIjogIjdjZjFkOWEwLTliNWYtNDI0MS1jZGNlLTFmZWEwZTgwMTA5NyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAiZ3JwYyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
@@ -28,7 +29,6 @@ vless://92224dc5-e2ea-4273-b16e-236ed14dffb2@208.87.96.15:30385?encryption=none&
 vless://58fa38f3-6f79-490b-923f-3bb1ca2440d9@yx.3217000.xyz:2053?encryption=none&security=tls&sni=alice.3217.lol&type=ws&host=alice.3217.lol&path=%2Fjgdong#alice-v6-CDN
 vless://47ce4128-3340-482c-e2b4-3a182c77b2c8@acus.3217000.xyz:55248?encryption=none&security=tls&sni=acus.3217000.xyz&fp=chrome&type=ws&path=%2F#ACus-CDN
 vless://cfba9207-1693-45a2-b40f-d626c2e21606@156.226.170.188:52396?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=g1f1wLjim5gOVGnI5LGUV0dL4iFXPoiepOPZfSxJe14&type=tcp&headerType=none#ACCK-HK-Akile
-ss://YWVzLTI1Ni1nY206TmtSSlZHbE5SM0pCUVc1VWR6aDFRWFF4UWtWWE0xaFFXbTVCZDFSTFMydz0%3D@[2600:1900:41a0:616::]:36866#google-hk-v6
 hysteria2://b06241ce-a201-40f1-8598-e3f6055ba5d9@188.68.234.53:46749?sni=www.bing.com&alpn=h3&insecure=1#PL-s14-hy2
 hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@128.204.223.95:43387?sni=www.bing.com&alpn=h3&insecure=1#PL-s4-hy2
 hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@128.204.223.116:13277?sni=www.bing.com&alpn=h3&insecure=1#PL-s9-hy2
