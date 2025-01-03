@@ -10,7 +10,6 @@ let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 
 //节点链接 + 订阅链接
 let MainData = `
-vless://99c8a597-e829-455a-adb1-78ad8abea969@tw1.3217000.xyz:30652?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.com&fp=chrome&pbk=8SOgTDtp-91i9mejf2-8BUaXnpy0OI-EOz1UoM9jEQ4&sid=5371d61a&type=tcp&headerType=none#gcptw
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIndhd28tdXN8dGxzIiwNCiAgImFkZCI6ICJ3YXdvdXMuMzIxNy5zcGFjZSIsDQogICJwb3J0IjogIjM2NTY4IiwNCiAgImlkIjogImViMjkzYzdmLWMwNTUtNGM3ZC1hZjg4LTRmNzM0NjUzZTNkZiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 vless://155eed4a-ac2c-46b4-cac8-f286dbe1a03f@wawous.3217.space:36567?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&type=tcp&headerType=none#wawo-us%7Ctcp
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIndhd28tSEt2bSIsDQogICJhZGQiOiAid2F3by4zMjE3MDAwLnh5eiIsDQogICJwb3J0IjogIjU0OTMyIiwNCiAgImlkIjogIjdjZjFkOWEwLTliNWYtNDI0MS1jZGNlLTFmZWEwZTgwMTA5NyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAiZ3JwYyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
@@ -35,6 +34,7 @@ hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@128.204.223.95:43387?sni=www.bi
 hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@128.204.223.116:13277?sni=www.bing.com&alpn=h3&insecure=1#PL-s9-hy2
 vless://65a03bee-5506-4286-bad1-fac18b32d7ac@sk5.djg.us.kg:443?encryption=none&security=tls&sni=sk5.djg.us.kg&fp=randomized&type=ws&host=sk5.djg.us.kg&path=%2F%3Fed%3D2560#sk5.djg.us.kg
 vless://65a03bee-5506-4286-bad1-fac18b32d7ac@www.visa.com.tw:2053?encryption=none&security=tls&sni=sk5.djg.us.kg&fp=randomized&type=ws&host=sk5.djg.us.kg&path=%2F%3Fed%3D2560#sk5.djg.us.kg-clone
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkhvbmdLb25nIiwNCiAgImFkZCI6ICIxMzkuMTk4LjEyMS4xNzMiLA0KICAicG9ydCI6ICIyMzY1NiIsDQogICJpZCI6ICJiZTA5ZDFkYy03OTAxLTQzNGYtOTczNi03ZWY4N2VkMjJmMzMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 
 `
 
