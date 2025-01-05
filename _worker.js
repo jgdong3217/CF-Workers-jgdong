@@ -15,7 +15,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkhvbmdLb25nIiwNCiAgImFkZCI6ICIxMzkuMTk4
 vless://1bd322f7-a6a0-40d1-8e71-d6f903e5aa24@188.245.197.12:39109?encryption=none&security=reality&sni=addons.mozilla.org&fp=random&pbk=gJuwR7gnHRq-FClMPEdgHW1Dp0bInwh9qkQPlLNY7Eo&type=tcp&headerType=none&host=addons.mozilla.org#%E5%B0%8F%E7%A7%98%E4%B9%8B%E5%BE%B7%E5%9B%BD
 ss://YWVzLTI1Ni1nY206TmtSSlZHbE5SM0pCUVc1VWR6aDFRWFF4UWtWWE0xaFFXbTVCZDFSTFMydz0%3D@[2600:1900:41a0:616::]:36866#google-hk-v6
 ss://YWVzLTI1Ni1nY206TWtaRWJYUk9iSEp0U0VKVVdsZHlUWFJxVWxoMk4xTk5jMGhUU20wNGVtOD0%3D@[2600:1900:41a0:fd0f::]:29813#google-hk-v6
-trojan://9FC0C344-3070-793E-CD01-B5B8D301A4DB@bjdata1.fc-smartglobal.xyz:11159?security=tls&sni=m.ctrip.com&allowInsecure=1&type=tcp&headerType=none#%E8%8B%B1%E5%9B%BD%E6%A0%87%E5%87%86%20IEPL%20%E4%B8%AD%E7%BB%A7%202
 vless://9ef72714-121e-47c4-a94b-487b65a2a005@ky01.fjsedf6523.xyz:443?encryption=none&security=tls&type=ws&path=%2Fky01.fjsedf6523#ky01
 vless://1e69d68c-b163-414c-fb85-f7d05dc953f1@ky11.mwedw51.xyz:443?encryption=none&security=tls&type=ws&path=%2Fky11.mwedw51#ky11
 vless://5bf6ca4d-786c-4dc2-8f5f-0ea46a6ffbf4@ky12.nefe512.xyz:443?encryption=none&security=tls&type=ws&path=%2Fky12.nefe512#ky12
