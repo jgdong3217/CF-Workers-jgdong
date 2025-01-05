@@ -36,7 +36,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZyZWVGSS00IiwNCiAgImFkZCI6ICIyYTAxOjRm
 vless://e03c992d-9302-4e4d-b823-4ca0297bbeb6@cf.090227.xyz:443?encryption=none&security=tls&sni=lol.arukesu.news&fp=chrome&type=ws&host=lol.arukesu.news&path=%2FArukesu#FreeFI-5
 vless://e03c992d-9302-4e4d-b823-4ca0297bbeb6@ct.090227.xyz:443?encryption=none&security=tls&sni=lol.arukesu.news&fp=chrome&type=ws&host=lol.arukesu.news&path=%2FArukesu#FreeFI-6
 vless://e03c992d-9302-4e4d-b823-4ca0297bbeb6@cmcc.090227.xyz:443?encryption=none&security=tls&sni=lol.arukesu.news&fp=chrome&type=ws&host=lol.arukesu.news&path=%2FArukesu#FreeFI-7
-
+vless://792e6715-e981-4f92-d56d-9c45c85c0a77@103.244.89.58:21682?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=g1f1wLjim5gOVGnI5LGUV0dL4iFXPoiepOPZfSxJe14&type=tcp&headerType=none#lap%7CJP-locvps%E4%B8%AD%E8%BD%AC
 
 `
 
