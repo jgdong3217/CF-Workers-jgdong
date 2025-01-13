@@ -36,6 +36,7 @@ vless://65a03bee-5506-4286-bad1-fac18b32d7ac@sk5.djg.us.kg:443?encryption=none&s
 vless://65a03bee-5506-4286-bad1-fac18b32d7ac@www.shopify.com:2053?encryption=none&security=tls&sni=sk5.djg.us.kg&fp=randomized&type=ws&host=sk5.djg.us.kg&path=%2F%3Fed%3D2560#sk5.djg.us.kg-clone
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkhvbmdLb25nIiwNCiAgImFkZCI6ICIxMzkuMTk4LjEyMS4xNzMiLA0KICAicG9ydCI6ICIyMzY1NiIsDQogICJpZCI6ICJiZTA5ZDFkYy03OTAxLTQzNGYtOTczNi03ZWY4N2VkMjJmMzMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 vless://792e6715-e981-4f92-d56d-9c45c85c0a77@wawo-hkv6.jgdong.us.kg:30204?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=g1f1wLjim5gOVGnI5LGUV0dL4iFXPoiepOPZfSxJe14&type=tcp&headerType=none#lap%7CJP-wawoHKV6%E4%B8%AD%E8%BD%AC
+vless://792e6715-e981-4f92-d56d-9c45c85c0a77@47.79.34.114:10836?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=g1f1wLjim5gOVGnI5LGUV0dL4iFXPoiepOPZfSxJe14&type=tcp&headerType=none#lap%7CJP-claw%E4%B8%AD%E8%BD%AC
 
 `
 
