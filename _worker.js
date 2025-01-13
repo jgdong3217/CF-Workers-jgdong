@@ -39,6 +39,7 @@ vless://792e6715-e981-4f92-d56d-9c45c85c0a77@wawo-hkv6.jgdong.us.kg:30204?encryp
 vless://792e6715-e981-4f92-d56d-9c45c85c0a77@47.79.34.114:10836?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=g1f1wLjim5gOVGnI5LGUV0dL4iFXPoiepOPZfSxJe14&type=tcp&headerType=none#lap%7CJP-claw%E4%B8%AD%E8%BD%AC
 hysteria2://5e4d366e98407448@157.254.21.197:26001?sni=www.bing.com&alpn=h3&insecure=1#Alice_HK-M1
 hysteria2://1e11609bfedbdac1@47.79.34.114:26001?sni=www.bing.com&alpn=h3&insecure=1#claw-jp4.2-hy2
+vless://4d4c07a0-5c68-474a-a470-5b8cb56d91a8@47.79.34.114:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=S2cgQxOrSrWncBmLA55NkO-6AcSS4ulydzsM3Z-hOlw&sid=db&spx=%2F&type=xhttp&path=%2Fa470&mode=auto#claw-jp4.2%2Bxhttp
 
 `
 
