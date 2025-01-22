@@ -39,6 +39,9 @@ hysteria2://1e11609bfedbdac1@47.79.34.114:26001?sni=www.bing.com&alpn=h3&insecur
 vless://4d4c07a0-5c68-474a-a470-5b8cb56d91a8@47.79.34.114:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=S2cgQxOrSrWncBmLA55NkO-6AcSS4ulydzsM3Z-hOlw&sid=db&spx=%2F&type=xhttp&path=%2Fa470&mode=auto#claw-jp4.2%2Bxhttp
 ss://YWVzLTEyOC1nY206cHJSaGJ6NnNiazhrRVNxM0g3eTBkTHdhREVRN0Ywd1F6a3R6LzBMVjYrST0=@35.241.77.254:17591?plugin=obfs-local;obfs%3Dhttp;obfs-host%3Dbing.com;fast-open%3Dtrue#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20gcp
 ss://YWVzLTEyOC1nY206cHJSaGJ6NnNiazhrRVNxM0g3eTBkTHdhREVRN0Ywd1F6a3R6LzBMVjYrST0=@[2600:1900:41a0:848:0:2::]:17591?plugin=obfs-local;obfs%3Dhttp;obfs-host%3Dbing.com;fast-open%3Dtrue#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20gcp-v6
+vless://ba11adf0-8346-43dd-be28-10e7b7b02892@[2400:8a20:112:1::4c]:34561?encryption=none&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&type=tcp&headerType=none#wap-v6
+vless://ba11adf0-8346-43dd-be28-10e7b7b02892@47.79.34.114:25684?encryption=none&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&type=tcp&headerType=none#wap-v6-claw%E4%B8%AD%E8%BD%AC
+
 `
 
 //请将机场订阅链接填入上方
