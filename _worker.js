@@ -27,7 +27,7 @@ hysteria2://d39a22d8-fea5-44d7-99a9-391077d2016d@77.90.52.103:30264?alpn=h3&inse
 vless://92224dc5-e2ea-4273-b16e-236ed14dffb2@208.87.96.15:30385?encryption=none&security=reality&sni=yahoo.com&fp=random&pbk=imD8hym2oeiCHR3nOl6mBrLKfmIliR4jXMHC8nBPThA&sid=7507797c157c7147&spx=%2F&type=tcp&headerType=none#alice-v6-wawo%E4%B8%AD%E8%BD%AC
 vless://58fa38f3-6f79-490b-923f-3bb1ca2440d9@yx.3217000.xyz:2053?encryption=none&security=tls&sni=alice.3217.lol&type=ws&host=alice.3217.lol&path=%2Fjgdong#alice-v6-CDN-%E2%88%9E
 vless://47ce4128-3340-482c-e2b4-3a182c77b2c8@acus.3217000.xyz:55248?encryption=none&security=tls&sni=acus.3217000.xyz&fp=chrome&type=ws&path=%2F#ACus-CDN
-hysteria2://b06241ce-a201-40f1-8598-e3f6055ba5d9@188.68.234.53:46749?sni=www.bing.com&alpn=h3&insecure=1#PL-s14-hy2-%E2%88%9E
+hysteria2://b06241ce-a201-40f1-8598-e3f6055ba5d9@188.68.240.161:46749?sni=www.bing.com&alpn=h3&insecure=1#PL-s14-hy2-%E2%88%9E
 hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@128.204.223.95:43387?sni=www.bing.com&alpn=h3&insecure=1#PL-s4-hy2-%E2%88%9E
 hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@128.204.223.116:13277?sni=www.bing.com&alpn=h3&insecure=1#PL-s9-hy2-%E2%88%9E
 vless://65a03bee-5506-4286-bad1-fac18b32d7ac@sk5.djg.us.kg:443?encryption=none&security=tls&sni=sk5.djg.us.kg&fp=randomized&type=ws&host=sk5.djg.us.kg&path=%2F%3Fed%3D2560#sk5.djg.us.kg--%E2%88%9E
