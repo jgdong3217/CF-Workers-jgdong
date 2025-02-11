@@ -26,8 +26,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInNha3VyYS10bHMiLA0KICAiYWRkIjogInNha3Vy
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInNha3VyYS10bHMtY2xvbmUiLA0KICAiYWRkIjogInd3dy56c3UuZ292LnVhIiwNCiAgInBvcnQiOiAiMjA1MyIsDQogICJpZCI6ICI5NmMxN2E0NS0yYmFhLTQxMjItYWQ4NC03MjA4NWVlYTI1YmIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInNha3VyYS4zMjE3LnVzLmtnIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJzYWt1cmEuMzIxNy51cy5rZyIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 vless://92224dc5-e2ea-4273-b16e-236ed14dffb2@208.87.96.15:30385?encryption=none&security=reality&sni=yahoo.com&fp=random&pbk=imD8hym2oeiCHR3nOl6mBrLKfmIliR4jXMHC8nBPThA&sid=7507797c157c7147&spx=%2F&type=tcp&headerType=none#alice-v6-wawo%E4%B8%AD%E8%BD%AC
 vless://58fa38f3-6f79-490b-923f-3bb1ca2440d9@yx.3217000.xyz:2053?encryption=none&security=tls&sni=alice.3217.lol&type=ws&host=alice.3217.lol&path=%2Fjgdong#alice-v6-CDN-%E2%88%9E
-vless://47ce4128-3340-482c-e2b4-3a182c77b2c8@acus.3217000.xyz:55248?encryption=none&security=tls&sni=acus.3217000.xyz&fp=chrome&type=ws&path=%2F#ACus-CDN
-hysteria2://c2f57b30-4be5-456c-94b9-0116eaf6e006@188.68.240.161:46749?sni=www.bing.com&alpn=h3&insecure=1#PL-s14-hy2-%E2%88%9E
 hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@128.204.223.95:43387?sni=www.bing.com&alpn=h3&insecure=1#PL-s4-hy2-%E2%88%9E
 vless://46d46c8e-c791-40b6-b3f3-47acf41d7339@128.204.223.115:7027?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.speedtest.net&fp=chrome&pbk=fMizzHellJNCMxkW8ZG4__mPlEWtHPjhzo-iOZiSEig&type=tcp&headerType=none#PL-s9-reality
 hysteria2://46d46c8e-c791-40b6-b3f3-47acf41d7339@128.204.223.115:46577?sni=www.bing.com&alpn=h3&insecure=1#PL-s9-hy2
