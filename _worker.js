@@ -35,13 +35,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZSLXMxNi12bWVzcy13cy1hcmdvIiwNCiAgImFk
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkZSLXMxNi12bWVzcy13cyIsDQogICJhZGQiOiAiMjA3LjE4MC4yNDguNyIsDQogICJwb3J0IjogIjQ0MjE0IiwNCiAgImlkIjogIjY3ZDdjN2RlLWJlNzQtNDA1Ni1hNGQ3LWUzMjg0OTI0ZDVlYiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLzY3ZDdjN2RlLWJlNzQtNDA1Ni1hNGQ3LWUzMjg0OTI0ZDVlYi12bT9lZD0yMDQ4IiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 vless://65a03bee-5506-4286-bad1-fac18b32d7ac@sk5.djg.us.kg:443?encryption=none&security=tls&sni=sk5.djg.us.kg&fp=randomized&type=ws&host=sk5.djg.us.kg&path=%2F%3Fed%3D2560#sk5.djg.us.kg--%E2%88%9E
 vless://65a03bee-5506-4286-bad1-fac18b32d7ac@www.shopify.com:2053?encryption=none&security=tls&sni=sk5.djg.us.kg&fp=randomized&type=ws&host=sk5.djg.us.kg&path=%2F%3Fed%3D2560#sk5.djg.us.kg-clone
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkhvbmdLb25nIiwNCiAgImFkZCI6ICIxMzkuMTk4LjEyMS4xNzMiLA0KICAicG9ydCI6ICIyMzY1NiIsDQogICJpZCI6ICJiZTA5ZDFkYy03OTAxLTQzNGYtOTczNi03ZWY4N2VkMjJmMzMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
 hysteria2://5e4d366e98407448@157.254.21.197:26001?sni=www.bing.com&alpn=h3&insecure=1#Alice_HK-M1
-hysteria2://1e11609bfedbdac1@47.79.34.114:26001?sni=www.bing.com&alpn=h3&insecure=1#claw-jp4.2-hy2
-vless://4d4c07a0-5c68-474a-a470-5b8cb56d91a8@47.79.34.114:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=S2cgQxOrSrWncBmLA55NkO-6AcSS4ulydzsM3Z-hOlw&sid=db&spx=%2F&type=xhttp&path=%2Fa470&mode=auto#claw-jp4.2%2Bxhttp
-ss://YWVzLTEyOC1nY206cHJSaGJ6NnNiazhrRVNxM0g3eTBkTHdhREVRN0Ywd1F6a3R6LzBMVjYrST0=@35.241.77.254:17591?plugin=obfs-local;obfs%3Dhttp;obfs-host%3Dbing.com;fast-open%3Dtrue#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20gcp
-ss://YWVzLTEyOC1nY206cHJSaGJ6NnNiazhrRVNxM0g3eTBkTHdhREVRN0Ywd1F6a3R6LzBMVjYrST0=@[2600:1900:41a0:848:0:2::]:17591?plugin=obfs-local;obfs%3Dhttp;obfs-host%3Dbing.com;fast-open%3Dtrue#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20gcp-v6
-vless://ba11adf0-8346-43dd-be28-10e7b7b02892@47.79.34.114:25684?encryption=none&security=reality&sni=addons.mozilla.org&fp=chrome&pbk=UK7qxWWGfRQcQfwaGpHnqmmqqJBut4jxve8AeDDJ2UI&type=tcp&headerType=none#wap-v6-claw%E4%B8%AD%E8%BD%AC
 
 `
 
