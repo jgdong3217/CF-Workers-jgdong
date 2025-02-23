@@ -43,6 +43,7 @@ hysteria2://90c49a01-6bdf-4ba9-bd94-c44406279a3e@saibo-nl.sanguayun.com:11905?in
 hysteria2://90c49a01-6bdf-4ba9-bd94-c44406279a3e@saibo-nl.sanguayun.com:11806?insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B02
 hysteria2://90c49a01-6bdf-4ba9-bd94-c44406279a3e@saibo-nl.sanguayun.com:11531?insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B03
 hysteria2://90c49a01-6bdf-4ba9-bd94-c44406279a3e@saibo-nl.sanguayun.com:11385?insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B04
+https://jc.tiktokcn.xyz/s/495807fc32c05ab632f788b2936fbeb0
 
 `
 
