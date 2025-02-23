@@ -28,7 +28,7 @@ vless://65a03bee-5506-4286-bad1-fac18b32d7ac@sk5.djg.us.kg:443?encryption=none&s
 vless://65a03bee-5506-4286-bad1-fac18b32d7ac@www.shopify.com:2053?encryption=none&security=tls&sni=sk5.djg.us.kg&fp=randomized&type=ws&host=sk5.djg.us.kg&path=%2F%3Fed%3D2560#sk5.djg.us.kg-clone
 hysteria2://5e4d366e98407448@157.254.21.197:26001?sni=www.bing.com&alpn=h3&insecure=1#Alice_HK-M1
 https://SOS.CMliussss.net
-https://jc.tiktokcn.xyz/s/495807fc32c05ab632f788b2936fbeb0
+https://yjy.lol/s/495807fc32c05ab632f788b2936fbeb0
 
 `
 
