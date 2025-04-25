@@ -41,8 +41,6 @@ vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@csuzhou01.1cooldns.com:58031?encryp
 hysteria2://dongtaiwang.com@hy2.694463.xyz:10011?sni=www.bing.com&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF1%20%7C%20%E2%AC%87%EF%B8%8F%203.7MB%2Fs
 trojan://cdb9fefd-0e2d-44b6-9e01-6c3c00d59b9d@aafrtpfxr.jpl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27102?security=tls&sni=aafrtpfxr.jpl01i9zjfegelp.5xfsur8v62.gosdk.xyz&allowInsecure=1&type=tcp&headerType=none#%F0%9F%8C%80%E5%85%B6%E4%BB%961-%E6%9C%AA%E8%AF%86%E5%88%AB%20%7C%20%E2%AC%87%EF%B8%8F%202.5MB%2Fs
 hysteria2://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@64.181.204.186:47262?sni=www.bing.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD1%20%7C%20%E2%AC%87%EF%B8%8F%204.3MB%2Fs
-vless://6a2d094b-3159-4e5b-8d88-781041efdc6b@34.80.123.201:31055?encryption=none&security=reality&sni=icloud.cdn-apple.com&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&type=tcp&headerType=none#Gcp300-TW
-vless://41965c4e-24d4-4581-8575-0ef2a653ca4f@35.212.128.132:53262?encryption=none&security=reality&sni=www.lovelive-anime.jp&fp=chrome&pbk=g-oxbqigzCaXqARxuyD2_vbTYeMD9zn8wnTo02S69QM&type=tcp&headerType=none#Gcp300-us
 
 `
 
