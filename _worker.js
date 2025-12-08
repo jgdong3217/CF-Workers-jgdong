@@ -10,16 +10,7 @@ let SUBUpdateTime = 6; //自定义订阅更新时间，单位小时
 
 //节点链接 + 订阅链接
 let MainData = `
-https://104999.xyz/subs
-vless://ce462cc3-9983-45da-b030-728fb7b5684e@188.245.250.75:7022?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=Sm0gGVH8qJHECOVhNaN2j52ayfqYcrZggyQMxiQP2Fo&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%E5%BE%B7%E5%9B%BD6%20%7C%20%E2%AC%87%EF%B8%8F%206.8MB%2Fs
-hysteria2://dongtaiwang.com@51.159.226.1:43496?sni=www.bing.com&insecure=1#%F0%9F%87%AB%F0%9F%87%B7%E6%B3%95%E5%9B%BD1%20%7C%20%E2%AC%87%EF%B8%8F%202.7MB%2Fs
-hysteria2://Bia-SiNAVM-SiNAVM-SiNAVM-SiNAVM@sinavm.sinabigo.ir:443?sni=sinavm.sinabigo.ir&obfs=salamander&obfs-password=Bia-SiNAVM-Telegram-SiNAVM-%40SiNAVM-SiNAVM&insecure=0#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B01%20%7C%20%E2%AC%87%EF%B8%8F%202.6MB%2Fs
-vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@netherlanddddd.mehrdadsadaf.com:7594?encryption=none&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c&type=grpc&authority=&serviceName=7594vless&mode=gun#%F0%9F%87%B3%F0%9F%87%B1%E8%8D%B7%E5%85%B05%20%7C%20%E2%AC%87%EF%B8%8F%204.7MB%2Fs
-hysteria2://dongtaiwang.com@hy2.694463.xyz:10011?sni=www.bing.com&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%E4%BF%84%E7%BD%97%E6%96%AF1%20%7C%20%E2%AC%87%EF%B8%8F%203.7MB%2Fs
-hysteria2://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@64.181.204.186:47262?sni=www.bing.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD15%20%7C%20%E2%AC%87%EF%B8%8F%207.7MB%2Fs
-hysteria2://dongtaiwang.com@108.181.5.130:65232?sni=apple.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD3%20%7C%20%E2%AC%87%EF%B8%8F%2010.0MB%2Fs
-hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.soft10.ir:443?sni=sinavm.soft10.ir&obfs=salamander&obfs-password=%40SiNAVM-SiNAVM-SiNAVM-%40SiNAVM-%40SiNAVM&insecure=0#%F0%9F%8C%80%E5%85%B6%E4%BB%963-LI%20%7C%20%E2%AC%87%EF%B8%8F%202.5MB%2Fs
-vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@turkeyyy.mehrdadsadaf.com:7594?encryption=none&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c&type=grpc&authority=&serviceName=7594vless&mode=gun#%F0%9F%8C%80%E5%85%B6%E4%BB%963-TR%20%7C%20%E2%AC%87%EF%B8%8F%208.4MB%2Fs
+https://104999.xyz/dabozuishuai/download/solaireh3%E2%9C%88%EF%B8%8F1-copy5872?target=V2Ray
 
 `
 
